@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1630527640 source:g:\c\school project\database.c
+	"header.h"
+
+1630324406 g:\c\school project\header.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"string.h"
+
+1630527633 source:g:\c\school project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1630533045 source:c:\users\emanh\desktop\school project\database.c
+	"header.h"
+
+1630532040 c:\users\emanh\desktop\school project\header.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"string.h"
+
+1630532339 source:c:\users\emanh\desktop\school project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1630566716 source:c:\users\abdoo\desktop\school project\school project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1630542167 c:\users\abdoo\desktop\school project\school project\header.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"string.h"
+
+1630534497 source:c:\users\abdoo\desktop\school project\school project\database.c
+	"header.h"
+
